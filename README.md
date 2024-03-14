@@ -15,8 +15,8 @@
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/rating.svg)
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/rating.svg)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
 
