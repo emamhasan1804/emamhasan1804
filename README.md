@@ -7,7 +7,7 @@
 
 #### Contact me:
 <a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
-<a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
+<a href="https://https://www.linkedin.com/in/md-emam-hasan-4039342b2/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
 ![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
 #### 📈 Competitive Programming
