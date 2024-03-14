@@ -15,7 +15,7 @@
 ![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/emamhasan1804?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=unicorn)
 
 
 #### Languages and Tools:
