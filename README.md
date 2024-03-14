@@ -1,19 +1,22 @@
 #### Hello there 👋, I'm Md. Emam Hasan
 
-## I am a Learner and Programmer!!
-####
+## I am a Learner and  Programmer!!
 
 - 🥅 2024 Goals: To become codeforces pupil and solve 350+ problems
+- 🥅 2025 Goals: To become codeforces specialist and solve 1000+ problems
 
 #### Contact me:
 <a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
 <a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=emam_hasan_himu)
 ![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
-##### 📈 Competitive Programming
-![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg)
+#### 📈 Competitive Programming
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
 
