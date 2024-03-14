@@ -12,7 +12,8 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=emam_hasan_himu)
 ![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
 ##### 📈 Competitive Programming
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emam_hasan_himu)](https://codeforces.com/profile/emam_hasan_himu)
+![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emamhasan1804/cf-stats/main/output/light_card.svg)
 
 
 #### Languages and Tools:
