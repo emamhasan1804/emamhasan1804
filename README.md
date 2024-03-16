@@ -2,7 +2,7 @@
 
 ## I am a Learner and  Programmer!!
 
-- 🥅 2024 Goals: To become codeforces pupil and solve 350+ problems
+- 🥅 2024 Goals: To become codeforces pupil and solve 500+ problems
 - 🥅 2025 Goals: To become codeforces specialist and solve 1000+ problems
 
 #### Contact me:
