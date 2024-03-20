@@ -20,12 +20,12 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
 
 
-#### Languages and Tools:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/></a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" height="30"/></a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30"/></a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/></a>
+##### Languages 
+<img src="https://camo.githubusercontent.com/38b08cb721ca89199a3a0ebb2ea926f16c3c21505bbaa836ace69c9a72d07b45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3333333333333f6c6f676f3d63706c7573706c7573" width="50" height="20"/></a>
+<img src="https://camo.githubusercontent.com/a0f04819bb686924cb674e5b6a3e82271863a71a3019a6708fc67494e6183864/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3333333333333f6c6f676f3d43" width="30" height="20"/></a>
 
+##### Editor & IDE
+<img src="https://camo.githubusercontent.com/8aaa953764660ba81268648ea51a3cdc2f7a41070ec878575e23253f773fdcf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" width="110" height="22"/></a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emamhasan1804&show_icons=true)  
