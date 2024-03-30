@@ -2,8 +2,8 @@
 
 ## I am a Learner and  Programmer!!
 
-- 🥅 2024 Goals: To become codeforces pupil, 3* coder on codechef and solve 500+ problems on codeforces
-- 🥅 2025 Goals: To become codeforces specialist and solve 1000+ problems on codeforces
+- 🥅 2024 Goals: To become codeforces specialist, 3* coder on codechef and solve 500+ problems on codeforces
+- 🥅 2025 Goals: To become codeforces expert and solve 1000+ problems on codeforces
 
 #### Contact me:
 <a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
