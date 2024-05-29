@@ -29,3 +29,8 @@
 ##### Editor & IDE
 <img src="https://camo.githubusercontent.com/8aaa953764660ba81268648ea51a3cdc2f7a41070ec878575e23253f773fdcf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" width="110" height="22"/></a>
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emamhasan1804&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emamhasan1804)](https://github.com/anuraghazra/github-readme-stats)
