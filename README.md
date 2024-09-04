@@ -23,7 +23,7 @@
 
 
 ##### Languages 
-<img src="https://www.clipartmax.com/middle/m2H7G6A0b1A0K9m2_c-language-global-or-external-variables-with-examples-c-programming-logo/" width="50" height="20"/></a>
+<img src="https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" width="50" height="20"/></a>
 <img src="https://camo.githubusercontent.com/a0f04819bb686924cb674e5b6a3e82271863a71a3019a6708fc67494e6183864/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3333333333333f6c6f676f3d43" width="30" height="20"/></a>
 
 
