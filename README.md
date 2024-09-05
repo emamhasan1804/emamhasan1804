@@ -19,7 +19,7 @@
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=emamhasrpl6)]([<YOUR_LINK_HERE>](https://auth.geeksforgeeks.org/user/emamhasrpl6))
+
 
 
 ##### Languages 
