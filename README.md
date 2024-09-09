@@ -28,7 +28,7 @@
 
 
 
-##### Web Development
+##### Development
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/HTML5_Black_icon.svg" width="40" /></a>
 
