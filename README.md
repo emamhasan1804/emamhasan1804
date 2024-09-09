@@ -38,7 +38,4 @@
 <img src="src/android-studio-icon.png" width="30"/></a>
 <img src="src/pngwing.com.png" width="30"/></a>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emamhasan1804&show_icons=true)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emamhasan1804)](https://github.com/anuraghazra/github-readme-stats)
