@@ -1,6 +1,6 @@
 #### Hello there 👋, I'm Md. Emam Hasan
 
-## I am a Learner and  Programmer!!
+## I am a Competitive Programmer!!
 
 - 🥅 2024 Goals: To become codeforces specialist, 4* coder on codechef and solve 500+ problems on codeforces
 - 🥅 2025 Goals: To become codeforces expert and solve 250+ problems on codeforces
