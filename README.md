@@ -6,7 +6,7 @@
 - 🥅 2025 Goals: To become codeforces expert and solve 250+ problems on codeforces
 
 #### Contact me:
-<a href="https://www.facebook.com/mdemamhasan.himu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
+<a href="https://www.facebook.com/mdemamhasan.himu" target="blank_"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/md-emam-hasan-4039342b2/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
 ![](https://komarev.com/ghpvc/?username=emamhasan1804&base=0)
@@ -25,7 +25,7 @@
 ##### Languages 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/></a>
-<img src="src/java.png" width="40"/></a>
+<img src="src/java.png" width="30"/></a>
 
 
 
