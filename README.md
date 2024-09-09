@@ -33,7 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/HTML5_Black_icon.svg" width="30" /></a>
 
 ##### Editor & IDE
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30"/></a>
+<img src="pngwing.com (1).png" width="30"/></a>
 <img src="src/android-studio-icon.png" width="30"/></a>
 <img src="src/pngwing.com.png" width="30"/></a>
 
