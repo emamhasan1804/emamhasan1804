@@ -19,7 +19,7 @@
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=emam_hasan_himu&theme=transparent)
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
 
