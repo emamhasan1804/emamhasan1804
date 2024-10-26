@@ -30,7 +30,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/></a>
 <img src="src/java.png" width="35"/></a>
 <img src="src/python.png" width="35"/></a>
-<img src="src/python.png" width="40"/></a>
 
 
 
